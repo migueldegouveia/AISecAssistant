@@ -1,0 +1,1 @@
+Aquí irán los microservicios y scripts Python (por ejemplo, gestor de contraseñas, IA, etc).

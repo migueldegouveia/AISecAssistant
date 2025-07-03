@@ -1,0 +1,1 @@
+Aquí se documentarán los flujos y configuraciones de n8n para la automatización.

@@ -1,0 +1,1 @@
+Carpeta para modelos y utilidades compartidas entre proyectos .NET.

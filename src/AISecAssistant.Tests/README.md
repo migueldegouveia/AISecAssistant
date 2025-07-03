@@ -1,0 +1,1 @@
+Carpeta para tests unitarios y de integración del proyecto.

@@ -1,0 +1,39 @@
+﻿@page "/security"
+@using AISecAssistant.Components.Layout
+@rendermode InteractiveServer
+@layout MainLayout
+
+<h3>🛡️ Módulo de Seguridad</h3>
+
+<p>Desde aquí podrás simular escaneos y ver el estado de seguridad del sistema.</p>
+
+
+<button class="btn btn-primary" @onclick="StartScan">🔍 Iniciar escaneo</button>
+
+@if (isScanning)
+{
+    <p class="mt-3 text-info">Escaneando en busca de amenazas...</p>
+}
+else if (scanCompleted)
+{
+    <div class="mt-3 alert alert-success">
+        <strong>Escaneo completado:</strong> No se han encontrado amenazas.
+    </div>
+}
+
+@code {
+    private bool isScanning = false;
+    private bool scanCompleted = false;
+
+    private async Task StartScan()
+    {
+        isScanning = true;
+        scanCompleted = false;
+        StateHasChanged();
+
+        await Task.Delay(3000); // Simula análisis durante 3 segundos
+
+        isScanning = false;
+        scanCompleted = true;
+    }
+}

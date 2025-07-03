@@ -1,0 +1,1 @@
+Documentación técnica, manuales de usuario, diagramas, etc.

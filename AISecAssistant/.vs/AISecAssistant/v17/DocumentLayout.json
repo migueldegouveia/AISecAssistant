@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\AISecAssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7D9B3E-5B16-481C-9DE7-A395E08FB60D}|AISecAssistant\\AISecAssistant.csproj|c:\\users\\migue\\source\\repos\\aisecassistant\\aisecassistant\\components\\pages\\security.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA7D9B3E-5B16-481C-9DE7-A395E08FB60D}|AISecAssistant\\AISecAssistant.csproj|solutionrelative:aisecassistant\\components\\pages\\security.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7D9B3E-5B16-481C-9DE7-A395E08FB60D}|AISecAssistant\\AISecAssistant.csproj|c:\\users\\migue\\source\\repos\\aisecassistant\\aisecassistant\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA7D9B3E-5B16-481C-9DE7-A395E08FB60D}|AISecAssistant\\AISecAssistant.csproj|solutionrelative:aisecassistant\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Security.razor",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\AISecAssistant\\AISecAssistant\\Components\\Pages\\Security.razor",
+              "RelativeDocumentMoniker": "AISecAssistant\\Components\\Pages\\Security.razor",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\AISecAssistant\\AISecAssistant\\Components\\Pages\\Security.razor",
+              "RelativeToolTip": "AISecAssistant\\Components\\Pages\\Security.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T15:06:38.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\AISecAssistant\\AISecAssistant\\Components\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "AISecAssistant\\Components\\Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\AISecAssistant\\AISecAssistant\\Components\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "AISecAssistant\\Components\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T14:50:28.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
